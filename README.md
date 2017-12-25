@@ -1,5 +1,5 @@
 # Blocky
-[Game](block.jpg)
+![Game](https://github.com/MellowYarker/Blocky/blob/master/block.jpg?raw=true "Example")
 ## Instructions
 Instructions on how to play and how to win can be found in the game.
 
